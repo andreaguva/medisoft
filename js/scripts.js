@@ -157,7 +157,7 @@ regMedico_agre.addEventListener('submit',function (e){
         console.log("Enviando formulario .....");
     }else{
         console.log("Error Enviando formulario .....");
-    }
+    } 
 })
 
 //validar de formulrio regMedico_modif
